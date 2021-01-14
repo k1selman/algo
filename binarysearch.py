@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 14 23:31:56 2021
 
-@author: barkq
+@author: k1selman
 """
 
 def binarysearch(tab, x):
